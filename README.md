@@ -29,7 +29,7 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=DURAM0830&show_icons=true&theme=radical">
 </div>
 
-### 📞 My Contact
+### 📞 Contact Us
 ---
-- story3798@naver.com
-- lyh60080@gmail.com
+- Gmail: lyh60080@gmail.com
+- Naver: story3798@naver.com
