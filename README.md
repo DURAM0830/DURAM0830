@@ -24,6 +24,7 @@
 
 ### 👻 Current Status
 ---
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=story3798)](https://solved.ac/story3798)
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DURAM0830&layout=compact&theme=radical"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=DURAM0830&show_icons=true&theme=radical">
