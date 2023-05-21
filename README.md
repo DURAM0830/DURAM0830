@@ -30,5 +30,5 @@
 
 ### 📞 Contact Us
 ---
-- Gmail: lyh60080@gmail.com
-- Naver: story3798@naver.com
+- Gmail: <img src="https://img.shields.io/badge/lyh60080@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+- Naver: <img src="https://img.shields.io/badge/story3798@naver.com-03C75A?style=flat&logo=naver&logoColor=white" />
