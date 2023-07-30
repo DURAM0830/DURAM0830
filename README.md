@@ -6,7 +6,7 @@
 	<h5>Computers are dumb.</h5>
 </div>
 
-### 🤗 My Skills
+### 🤗 [My Skills](https://career.programmers.co.kr/pr/octopus)
 ---
 <div align="center">
 	<h4> 🛠️ Can Use </h4>
